@@ -118,24 +118,6 @@ KPI :- Value
  Marketing Spend :- 11.13M 
  Average Order Value :- 397.02 
 
-##  Project Structure
-
-ChocoLens/
-│
-├── data/
-│   └── Chocolate_Sales_Cleaned.csv
-│
-├── python/
-│   └── chocolate_sales_python.py
-│
-├── sql/
-│   └── CHOCOLATE_SALES_SQL.sql
-│
-├── powerbi/
-│   └── ChocoLens_Dashboard.pbix
-│
-└── README.md
-
 ##  Future Improvements
 
 - Sales forecasting
