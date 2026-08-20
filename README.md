@@ -95,6 +95,14 @@ The dashboard contains:
 - Product Filter
 - Quarter Filter
 
+## Dashboard
+
+### Power BI Dashboard
+
+[![Chocolate Sales Dashboard](dashboard.png.png)](dashboard.png.png)
+
+The dashboard provides an interactive view of sales performance and allows users to analyze the data using different filters.
+
 ##  Key Business Insights
 
 - Australia is the highest-sales country.
