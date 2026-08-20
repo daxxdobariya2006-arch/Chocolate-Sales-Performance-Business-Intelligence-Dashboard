@@ -112,11 +112,11 @@ The dashboard contains:
 
 KPI :- Value 
 
- Total Sales :- 53.10M 
- Total Orders :- 134K 
- Total Boxes :- 19M 
- Marketing Spend :- 11.13M 
- Average Order Value :- 397.02 
+ - Total Sales :- 53.10M 
+ - Total Orders :- 134K 
+ - Total Boxes :- 19M 
+ - Marketing Spend :- 11.13M 
+ - Average Order Value :- 397.02 
 
 ##  Future Improvements
 
